@@ -1,0 +1,124 @@
+:root
+{
+    --color:blueviolet;
+
+}
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#login label
+{
+    color: blueviolet;
+}
+
+#login span button,#login span a
+{
+    background: blueviolet;
+    color: white;
+    margin: auto;
+
+}
+#login input
+{
+    box-shadow: none;
+}
+#login .input-group .input-group-prepend img
+{
+    width:40px;
+    height:40px;
+   
+}
+#login p
+{
+    color: red;
+}
+#student form button
+{
+    background: blueviolet;
+    color: white;
+}
+#student form p
+{
+    color: red;
+}
+#student h3
+{
+    color: blueviolet;
+}
+#student form .succse p
+{
+    color: rgb(70, 226, 70);
+
+
+
+}
+#student input
+{
+    box-shadow: none;
+}
+#student  form span button,#student form span a
+{
+    background: blueviolet;
+    color: white;
+    margin: auto;
+
+}
+#sub .show
+{
+    border-bottom: 2px solid blueviolet;
+}
+#sub .show button
+{
+    border: none;
+    background: var(--color);
+    color: #fff;
+}
+#send_homewrok button
+{
+    background: var(--color);
+    color:#fff;
+}
+#send_homewrok .ferr
+{
+    color: red;
+}
+#send_homewrok .s
+{
+    color: green;
+}
+#homwork  .send
+{ 
+  color: green;
+  
+}
+#homwork  .no
+{
+    color: red;
+}
+#homwork input,#homwork textarea
+{
+    box-shadow: none;
+}
+#homwork  button
+{
+    background: var(--color);
+    color: #fff;
+}
+.navbar .navbar-brand
+{
+    color: blueviolet;
+}
+#navbarText ul li a{
+     color: blueviolet;
+     font-weight: bold;
+     margin: 10px;
+     cursor: pointer;
+}
+#work form 
+{
+   
+}
+
